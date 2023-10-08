@@ -5,22 +5,23 @@ Assignment-2 AED
 
 **MySQL Database used:**
 
-![image](https://github.com/aed5100/assignment-2-shaikhmohammedanzal/assets/144715175/6362bc93-0891-4c9c-9548-986323652ac8)
+![image](https://github.com/anzalshaikh27/ADMIN-USER-CRUD-SQL-AED/assets/57680301/4077a201-0fd4-4126-a597-430f2c97c87d)
 
 **View Admin Page:**
 
-![image](https://github.com/aed5100/assignment-2-shaikhmohammedanzal/assets/144715175/539f4e1e-e42f-4e5f-8473-1dd78a63c28f)
+![image](https://github.com/anzalshaikh27/ADMIN-USER-CRUD-SQL-AED/assets/57680301/d8ae3b6f-5a43-4cff-a106-21a0e006dc72)
 
 **Admin Login Page:**
 
-![image](https://github.com/aed5100/assignment-2-shaikhmohammedanzal/assets/144715175/fd1ff316-d84e-476d-bb10-fc041fbcde18)
+![image](https://github.com/anzalshaikh27/ADMIN-USER-CRUD-SQL-AED/assets/57680301/eac7f3a2-e1b5-4d29-a6ea-b13622359387)
 
 **Create User Page:**
 
-![image](https://github.com/aed5100/assignment-2-shaikhmohammedanzal/assets/144715175/70c2a2db-9a11-472c-ac81-a3a2e0704d6b)
+![image](https://github.com/anzalshaikh27/ADMIN-USER-CRUD-SQL-AED/assets/57680301/e8efe9a5-44e5-46de-8387-bf4ea1ed9aeb)
 
 **View User Page:**
 
-![image](https://github.com/aed5100/assignment-2-shaikhmohammedanzal/assets/144715175/5565dbf4-eb9b-468c-9b4d-e315d28e38e1)
+![image](https://github.com/anzalshaikh27/ADMIN-USER-CRUD-SQL-AED/assets/57680301/d022c9ff-6d10-4304-a7a5-ceb1ae6b113f)
+
 
 
